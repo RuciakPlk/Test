@@ -11,6 +11,7 @@ public class App
 
 
         System.out.println( "Hello World!" );
+        System.out.println("zmiany");
     }
     public static Integer min(Integer[] numbers) {
         Integer min = Integer.MAX_VALUE;
@@ -23,4 +24,6 @@ public class App
 
         return min;
     }
+
+
 }
